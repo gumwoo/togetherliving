@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856749131754",
+    "project_id": "togetherliving-f1dc0",
+    "storage_bucket": "togetherliving-f1dc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856749131754:android:8fe510c1db88d406ca9493",
+        "android_client_info": {
+          "package_name": "com.frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856749131754-qdh0je0j1js1oe25vqnqk0qak7rq4gb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frontend",
+            "certificate_hash": "df8c42ae98303a7986220a8fee2d085e3b0df522"
+          }
+        },
+        {
+          "client_id": "856749131754-qijv63vfd3okam499tdva8vfqmtb5plm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSNny7yXIu_DM1UUzuX9sp-NXSpVUdB-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856749131754-qijv63vfd3okam499tdva8vfqmtb5plm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
